@@ -44,3 +44,11 @@ It was developed as a portfolio project using example data.
 ## Note
 
 The features available depend on the selected script and its implementation.
+
+## Screenshots
+
+### Application Preview
+![Application Preview](screenshots/app-preview.png)
+
+### Excel Output
+![Excel Output](screenshots/excel-result.png)
