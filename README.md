@@ -48,7 +48,7 @@ The features available depend on the selected script and its implementation.
 ## Screenshots
 
 ### Application Preview
-![Application Preview](screenshots/app-preview.png)
+![Application Preview](screenshots/app-preview.jpg)
 
 ### Excel Output
-![Excel Output](screenshots/excel-result.png)
+![Excel Output](screenshots/excel-result.jpg)
